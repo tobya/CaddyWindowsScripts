@@ -1,7 +1,7 @@
 Windows Caddy Scripts
 ===========
 
-Two scripts to run caddy with php fast-cgi reliably on windows.
+Two scripts to run [caddy](https://caddyserver.com) with php fast-cgi reliably on windows.
 
 RunCaddy.bat runs caddy and will restart whenever caddy is killed.
 
